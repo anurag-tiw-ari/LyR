@@ -76,7 +76,7 @@ const App = () => {
      className="min-h-screen overflow-hidden relative bg-cover bg-no-repeat bg-center  sm:bg-position-[-20%_top] bg-fixed"
 
       style={{ 
-           backgroundImage: `url('/src/assets/photo.jpg')`,
+           backgroundImage: `url('/photo.jpg')`,
   backgroundColor: 'rgba(255, 255, 255, 0.8)',
   backgroundBlendMode: 'overlay',
   
